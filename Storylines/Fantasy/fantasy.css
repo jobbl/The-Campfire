@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  padding-left: 500px;
+  padding-right: 500px;
+  letter-spacing: 5px;
+}
+
+header{
+  padding-top: 150px;
+}
+
+button{
+  padding: 1%;
+  background-color: #000000;
+  font-size: 30px;
+  color: red;
+  border: 2px solid red;
+  text-decoration: none;
+  outline: none;
+  letter-spacing: 10px;
+}
+
+button:hover{
+  background-color: red;
+  color: black;
+  transition: 0.3s;
+}
+
+h1{
+  text-align: left;
+}
